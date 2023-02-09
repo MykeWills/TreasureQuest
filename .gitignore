@@ -9,3 +9,6 @@ UnityProject/Assets/Scenes/OverWorld.unity
 UnityProject/Assets/Scenes/ProtoType.unity
 UnityProject/Assets/Scenes/Temple1.unity
 UnityProject/Assets/Scenes/Temple1/LightingData.asset
+UnityProject/Assets/Scenes/OverWorld/OcclusionCullingData.asset
+UnityProject/Assets/Scenes/GhostShip/LightingData.asset
+UnityProject/Assets/Scenes/MainMenu/OcclusionCullingData.asset
