@@ -200,7 +200,7 @@ public class MMTransition : MonoBehaviour
                 image.GetComponent<Image>().color = newColor;
                 
                 if (num == 0)
-                {d
+                {
                     StopCoroutine(screenBlack);
                     screenBlack = FadeIn(1.0f, 0.5f, titleBottom, false, 1);
                     StartCoroutine(screenBlack);
